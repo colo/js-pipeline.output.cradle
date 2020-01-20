@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/colo/js-pipeline.output.cradle#readme",
   "dependencies": {
-    "cradle-pouchdb-server": "^0.7.1"
+    "cradle-pouchdb-server": "^0.7.1",
+    "mootools": "^1.5.2"
   }
 }
